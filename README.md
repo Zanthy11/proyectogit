@@ -1,2 +1,2 @@
 "# Mi proyecto modificado"
-"# Probando esta vaina"
+"# Arregla el error"
